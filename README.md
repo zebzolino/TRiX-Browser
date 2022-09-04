@@ -1,8 +1,8 @@
 # TRiX-Browser
-An Open-Source simple browser made with Webview2.
+#### An Open-Source simple browser made with Webview2.
 
 <p align="center">
- <img width=200px height=200px src="https://i.imgur.com/Dx5xR1Z.png" alt="TRiX Browser">
+ <img width=200px height=200px src="https://i.imgur.com/LINRyBi.jpg" alt="TRiX Browser">
 </p>
 
 <h1 align="center">TRiX Browser</h1>
