@@ -38,5 +38,5 @@
 
 #### About
 TRiX Browser is an Open-Source and minimal browser,
-which is fast and reputable. 
+both fast and reputable. 
 <br />
